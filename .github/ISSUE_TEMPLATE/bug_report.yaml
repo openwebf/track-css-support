@@ -11,6 +11,14 @@ body:
       label: Affected version
       description: Please specify which version of webf you are using.
       placeholder: main
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: Related CSS Property
+      description: |
+        Please provide the related CSS properties used by Tailwind CSS class
+      placeholder: |
   
   - type: textarea
     validations:
