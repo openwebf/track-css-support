@@ -19,7 +19,7 @@ body:
       description: |
         Please provide the related CSS properties used by Tailwind CSS class
       placeholder: |
-  
+        CSS Property
   - type: textarea
     validations:
       required: true
